@@ -1,4 +1,4 @@
-# Data_Analysis_and_Visualization
+# Data Analysis and Visualization
 
 # 12-Weeks Data Analysis and Visualization Training
 
@@ -33,5 +33,5 @@ This repo combines theory with practice, helping participants gain confidence in
 | 9    | [Data Wrangling and Transformation](./Week_09)                                                | [Go to Week 9 Folder](./Week_09)               |
 | 10   | [Advanced Data Analysis Techniques](./Week_10)                                                | [Go to Week 10 Folder](./Week_10)              |
 | 11   | [Interactive Visualizations with Plotly](./Week_11)                                           | [Go to Week 11 Folder](./Week_11)              |
-| 12   | [Final Project and Presentation](./Week_12)                                                   | [Capstone Project](./Week_12)          |
+| 12   | [Final Project and Presentation](./Week_12/Capstone_Project_1.ipynb)                                                   | [Capstone Project](./Week_12/Capstone_Project_1.ipynb)          |
 | 13   | [Additional Resource (Optional)](https://medium.com/@alaminhnab4)                                                   | [More Resorce]((https://medium.com/@alaminhnab4)         |
