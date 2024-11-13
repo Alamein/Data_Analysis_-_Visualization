@@ -22,12 +22,12 @@ This repo combines theory with practice, helping participants gain confidence in
 
 | Week | Topic                                                                                         | Link                                           |
 |------|-----------------------------------------------------------------------------------------------|------------------------------------------------|
-| 1    | [Introduction to Data Analysis & Python Basics](./Week_01/Week_1.ipynb)                                    | [Go to Week 1 Folder](./Week_01/Week_1.ipynb)               |
-| 2    | [Data Structures in Python](./Week_02/Week_2.ipynb)                                                        | [Go to Week 2 Folder](./Week_02/Week_2.ipynb)               |
-| 3    | [Importing and Handling Data with Pandas](./Week_3/Week_03.ipynb)                                          | [Go to Week 3 Folder](./Week_03/Week_3.ipynb)               |
-| 4    | [Data Cleaning and Preprocessing](./Week_04/Week_4.ipynb)                                                  | [Go to Week 4 Folder](./Week_04/Week_4.ipynb)               |
-| 5    | [Exploratory Data Analysis (EDA) - Descriptive Statistics](./Week_05/Week_5.ipynb)                         | [Go to Week 5 Folder](./Week_05/Week_5.ipynb)               |
-| 6    | [Data Visualization Basics with Matplotlib](./Week_06/Week_6.ipynb)                                        | [Go to Week 6 Folder](./Week_06/Week_6.ipynb)               |
+| 1    | [Introduction to Data Analysis & Python Basics](./Week_01/week_1.ipynb)                                    | [Go to Week 1 Folder](./Week_01/week_1.ipynb)               |
+| 2    | [Data Structures in Python](./Week_02/Week_2.ipynb)                                                        | [Go to Week 2 Folder](./Week_02/week_2.ipynb)               |
+| 3    | [Importing and Handling Data with Pandas](./Week_3/week_03.ipynb)                                          | [Go to Week 3 Folder](./Week_03/week_3.ipynb)               |
+| 4    | [Data Cleaning and Preprocessing](./Week_04/week_4.ipynb)                                                  | [Go to Week 4 Folder](./Week_04/week_4.ipynb)               |
+| 5    | [Exploratory Data Analysis (EDA) - Descriptive Statistics](./Week_05/week_5.ipynb)                         | [Go to Week 5 Folder](./Week_05/week_5.ipynb)               |
+| 6    | [Data Visualization Basics with Matplotlib](./Week_06/week_6.ipynb)                                        | [Go to Week 6 Folder](./Week_06/week_6.ipynb)               |
 | 7    | [Advanced Visualization with Seaborn](./Week_07)                                              | [Go to Week 7 Folder](./Week_07)               |
 | 8    | [Working with Time Series Data](./Week_08)                                                    | [Go to Week 8 Folder](./Week_08)               |
 | 9    | [Data Wrangling and Transformation](./Week_09)                                                | [Go to Week 9 Folder](./Week_09)               |
